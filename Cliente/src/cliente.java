@@ -53,10 +53,10 @@ public class cliente {
     }
 	
 	public void exibirInformacoes() {
-        System.out.println("Nome: " 			 + 	  nome);
-        System.out.println("Endereço: " 		 + 	  endereco);
-        System.out.println("Idade: " 			 + 	  idade);
-        System.out.println("Valor Pedido: " 	 + 	  valorPedido);
+        System.out.println("Nome: " 		 +    nome);
+        System.out.println("Endereço: " 	 +    endereco);
+        System.out.println("Idade: " 		 +    idade);
+        System.out.println("Valor Pedido: " 	 +    valorPedido);
         System.out.println("Valor Promocional: " +    valorPromocional);
         System.out.println("Valor com Desconto " +    valorDesconto);
 	}	
